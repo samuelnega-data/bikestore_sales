@@ -207,8 +207,5 @@ order by quantity desc, order_amount asc
 ```
 ![Screenshot 2025-02-26 115819](https://github.com/user-attachments/assets/330bf15f-2394-4de3-b1c9-766420e57833)
 
-
-
-
-
-
+## Conclusion
+I have attached the queries I used, along with the dataset sources and screenshots of the query outputs. There are some interesting findings from this project. The way I would present this to a senior-level member of the organization would vary depending on their role—whether it's a senior marketer, a board member, or another stakeholder. However, I believe the outputs I have developed can be effectively presented to any upper-level stakeholder.
