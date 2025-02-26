@@ -1,10 +1,10 @@
 # Bikestore Sales Dataset Analysis 
 
 ```sql
-Tools being used for the project: SQL & Excel
+Tools being used for the project: SQL 
 ```
 ## Overview
-I will be conducting an in-depth data analysis project on the Bikestore sales dataset. Using SQL, I will clean, explore, and analyze the data to extract meaningful insights. Key findings that could benefit the bike store owner will be visualized using Excel charts. This project is approached as if I am presenting the results to the store owner or a senior-level executive, providing them with a clear overview of the store's performance.
+I will be conducting an in-depth data analysis project on the Bikestore sales dataset. Using SQL, I will clean, explore, and analyze the data to extract meaningful insights. This project is approached as if I am presenting the results to the store owner or a senior-level executive, providing them with a clear overview of the store's performance.
 
 ## Collecting the dataset 
 The dataset that i will be using for this dataset will be attatched in a seperate folder in this repository. 
